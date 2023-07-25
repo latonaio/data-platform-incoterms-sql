@@ -9,9 +9,9 @@ https://api.xxx.com/api/API_XXXXX_XXX/overview
 data-platform-incoterms-sql には、sqlの設定ファイルとして以下のsqlファイルが含まれています。  
 
 * data-platform-incoterms-sql-incoterms-data.sql（データ連携基盤 インコタームズ - インコタームズデータ）
-* data-platform-incoterms-sql-incoterms-data.sql（データ連携基盤 インコタームズ - インコタームズデータ 設定）
+* data-platform-incoterms-sql-incoterms-data-setup.sql（データ連携基盤 インコタームズ - インコタームズデータの設定）
 * data-platform-incoterms-sql-incoterms-text-data.sql（データ連携基盤 インコタームズ - インコタームズテキストデータ）
-* data-platform-incoterms-sql-incoterms-text-data.sql（データ連携基盤 インコタームズ - インコタームズテキストデータ 設定）
+* data-platform-incoterms-sql-incoterms-text-data-setup.sql（データ連携基盤 インコタームズ - インコタームズテキストデータの設定）
 
 ## 設定値
 
