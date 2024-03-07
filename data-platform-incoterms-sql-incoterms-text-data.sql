@@ -1,4 +1,4 @@
-CREATE TABLE `data_platform_incoterms_incoterms_text_data`
+CREATE TABLE `data_platform_incoterms_text_data`
 (
     `Incoterms`            varchar(3) NOT NULL,
     `Language`             varchar(3) NOT NULL,
